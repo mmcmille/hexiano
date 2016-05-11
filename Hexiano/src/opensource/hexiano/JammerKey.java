@@ -1,13 +1,13 @@
 /* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
  *                                                                         *
  *   Hexiano, an isomorphic musical keyboard for Android                  *
- *   Copyright © 2012 James Haigh                                          *
- *   Copyright © 2011 David A. Randolph                                    *
+ *   Copyright Â© 2012 James Haigh                                          *
+ *   Copyright Â© 2011 David A. Randolph                                    *
  *                                                                         *
  *   FILE: JammerKey.java                                                  *
  *                                                                         *
  *   This file is part of Hexiano, an open-source project hosted at:       *
- *   https://github.com/lrq3000/hexiano                                         *
+ *   https://github.com/lrq3000/hexiano                                    *
  *                                                                         *
  *   Hexiano is free software: you can redistribute it and/or              *
  *   modify it under the terms of the GNU General Public License           *
